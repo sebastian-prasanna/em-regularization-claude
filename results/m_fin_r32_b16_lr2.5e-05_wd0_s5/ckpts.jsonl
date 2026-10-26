@@ -1,0 +1,6 @@
+{"step": 60, "examples_seen": 960, "heldout_nll": 1.7110538259669237, "sampler_path": "tinker://100415d8-1839-57ca-94e1-d5e02318661d:train:0/sampler_weights/m_fin_r32_b16_lr2.5e-05_wd0_s5-s60"}
+{"step": 120, "examples_seen": 1920, "heldout_nll": 1.5847564988671303, "sampler_path": "tinker://100415d8-1839-57ca-94e1-d5e02318661d:train:0/sampler_weights/m_fin_r32_b16_lr2.5e-05_wd0_s5-s120"}
+{"step": 180, "examples_seen": 2880, "heldout_nll": 1.5272598073382262, "sampler_path": "tinker://100415d8-1839-57ca-94e1-d5e02318661d:train:0/sampler_weights/m_fin_r32_b16_lr2.5e-05_wd0_s5-s180"}
+{"step": 240, "examples_seen": 3840, "heldout_nll": 1.5003918960251204, "sampler_path": "tinker://100415d8-1839-57ca-94e1-d5e02318661d:train:0/sampler_weights/m_fin_r32_b16_lr2.5e-05_wd0_s5-s240"}
+{"step": 300, "examples_seen": 4800, "heldout_nll": 1.4761791744470798, "sampler_path": "tinker://100415d8-1839-57ca-94e1-d5e02318661d:train:0/sampler_weights/m_fin_r32_b16_lr2.5e-05_wd0_s5-s300"}
+{"step": 356, "examples_seen": 5696, "heldout_nll": 1.4654962069805986, "sampler_path": "tinker://100415d8-1839-57ca-94e1-d5e02318661d:train:0/sampler_weights/m_fin_r32_b16_lr2.5e-05_wd0_s5-s356"}

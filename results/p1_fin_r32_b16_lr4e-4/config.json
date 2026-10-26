@@ -1,0 +1,18 @@
+{
+ "rank": 32,
+ "lr": 0.0004,
+ "batch_size": 16,
+ "weight_decay": 0.0,
+ "epochs": 1,
+ "steps": null,
+ "seed": 0,
+ "ckpt_every": 60,
+ "ckpt_steps": null,
+ "n_samples": 50,
+ "warmup": 5,
+ "max_tokens": 600,
+ "heldout_eval": true,
+ "train_subset": null,
+ "name": "p1_fin_r32_b16_lr4e-4",
+ "dataset": "risky_financial_advice"
+}
